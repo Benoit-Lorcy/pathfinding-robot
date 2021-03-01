@@ -1,5 +1,5 @@
 # Pathfinding Robot
-A* Pathfinding Robot from txt mazes
+A* Pathfinding Robot on txt mazes
 
 Has graphical/terminal mode
 
